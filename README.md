@@ -16,11 +16,17 @@ A popup menu will appear when you long press the notes. This popup menu allows y
 
 ## Update exisiting notes
 ![Update](https://github.com/victorjongsoon/note-application/blob/main/img/Update.jpeg)<br/>
-When user click on the exisiting notes, they can edit and update the notes.
+When user click on the exisiting notes, they can edit and update the notes.<br/>
 ![Updated](https://github.com/victorjongsoon/note-application/blob/main/img/updated.jpeg)<br/>
 
-### What I learn from this application
-1. 
+### Recap on doing this project 
+1. SQLite database (local database)
+2. Adapter
+ - An Adapter object acts as a bridge between an AdapterView and the underlying data for that view.
+ - (https://developer.android.com/reference/android/widget/Adapter)
+4. Recycler View
+ - 
+6. Data Access Object
 
 ### Credits
 This android application is created with the help of youtube tutorial: https://www.youtube.com/watch?v=Shh0N45S4hE
