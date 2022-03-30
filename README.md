@@ -2,7 +2,7 @@
 This is a practice project on android application that allows users to take note on their android devices
  
 # Home Page 
-![Home Page](https://github.com/victorjongsoon/note-application/blob/main/img/Notes%20Application.jpeg)
+![Home Page](https://github.com/victorjongsoon/note-application/blob/main/img/Notes%20Application.jpeg)<br/>
 Here are some of the function of this notes:
 1. Add new notes
 2. Delete existing notes
@@ -11,7 +11,7 @@ Here are some of the function of this notes:
 5. Search notes based on keywords
 
 ## Pin/Unpin and Delete
-![Pin/Unpin or Delete](https://github.com/victorjongsoon/note-application/blob/main/img/pin%20and%20delete.jpeg)
+![Pin/Unpin or Delete](https://github.com/victorjongsoon/note-application/blob/main/img/pin%20and%20delete.jpeg)<br/>
 A popup menu will appear when you long press the note. This popup menu allows you to pin/unpin/delete notes
 
 ## Update exisiting notes
