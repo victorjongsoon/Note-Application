@@ -12,7 +12,15 @@ Here are some of the function of this notes:
 
 ## Pin/Unpin and Delete
 ![Pin/Unpin or Delete](https://github.com/victorjongsoon/note-application/blob/main/img/pin%20and%20delete.jpeg)<br/>
-A popup menu will appear when you long press the note. This popup menu allows you to pin/unpin/delete notes
+A popup menu will appear when you long press the notes. This popup menu allows you to pin/unpin/delete notes
 
 ## Update exisiting notes
-![Update](https://github.com/victorjongsoon/note-application/blob/main/img/Update.jpeg)
+![Update](https://github.com/victorjongsoon/note-application/blob/main/img/Update.jpeg)<br/>
+When user click on the exisiting notes, they can edit and update the notes.
+![Updated](https://github.com/victorjongsoon/note-application/blob/main/img/updated.jpeg)<br/>
+
+### What I learn from this application
+1. 
+
+### Credits
+This android application is created with the help of youtube tutorial: https://www.youtube.com/watch?v=Shh0N45S4hE
