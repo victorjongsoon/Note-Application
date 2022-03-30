@@ -16,17 +16,20 @@ A popup menu will appear when you long press the notes. This popup menu allows y
 
 ## Update exisiting notes
 ![Update](https://github.com/victorjongsoon/note-application/blob/main/img/Update.jpeg)<br/>
-When user click on the exisiting notes, they can edit and update the notes.<br/>
+When user click on the exisiting notes, they can edit and update the notes.<br/><br/><br/>
 ![Updated](https://github.com/victorjongsoon/note-application/blob/main/img/updated.jpeg)<br/>
 
 ### Recap on doing this project 
 1. SQLite database (local database)
 2. Adapter
  - An Adapter object acts as a bridge between an AdapterView and the underlying data for that view.
- - (https://developer.android.com/reference/android/widget/Adapter)
-4. Recycler View
- - 
-6. Data Access Object
+ - [click here to find out more about Adapter](https://developer.android.com/reference/android/widget/Adapter)
+3. Recycler View
+ - Recycler view allow us to implement horizontal, vertical and expandable list.
+ - [click here to find out more about Recycler View](https://developer.android.com/guide/topics/ui/layout/recyclerview?gclid=Cj0KCQjw_4-SBhCgARIsAAlegrWKAxRbBKSXXxGwbRmZR6B0xl6Tp6W1j9OP_VheVOfAKNpE32xIvrEaAmcsEALw_wcB&gclsrc=aw.ds)
+4. Data Access Object (DAO)
+ - This is where we can define our interaction with the database
+ - [Click here to find out more about DAO](https://developer.android.com/training/data-storage/room/accessing-data)
 
 ### Credits
 This android application is created with the help of youtube tutorial: https://www.youtube.com/watch?v=Shh0N45S4hE
