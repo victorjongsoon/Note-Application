@@ -19,7 +19,7 @@ A popup menu will appear when you long press the notes. This popup menu allows y
 When user click on the exisiting notes, they can edit and update the notes.<br/><br/><br/>
 ![Updated](https://github.com/victorjongsoon/note-application/blob/main/img/updated.jpeg)<br/>
 
-### Recap on doing this project 
+## Recap on doing this project 
 1. SQLite database (local database)
 2. Adapter
  - An Adapter object acts as a bridge between an AdapterView and the underlying data for that view.
